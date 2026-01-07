@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="evaluation" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Evaluation</title>
+
+  <introduction xml:id="evaluation_introduction">
+    <p>
+      This course uses <alert>Standards Based Grading</alert>.
+      The content is broken into <em>standards</em> that you are expected to master by the end of the course.
+      This grading system is
+      <dl>
+	<li>
+	  <title>Iterative</title>
+	  <p>
+	    You will have multiple opportunities to display mastery of each standard, and
+	  </p>
+	</li>
+	<li>
+	  <title>Forgetful</title>
+	  <p>
+	    Your previous unsuccessful attempts are discarded once you demonstrate mastery of a standard.
+	  </p>
+	</li>
+      </dl>
+    </p>
+    
+    <p component="homework">
+      Mastering a standard is a two-step process.
+      You will need to earn a score of <alert>M</alert> on the Homework that goes with the standard <em>and</em> an in-class Assessment.
+    </p>
+    
+    <p>
+      A description of each standard can be found in the <xref ref="standards" text="title"/> section.
+    </p>
+  </introduction>
+
+  <xi:include href="assessments.ptx"/>
+  <xi:include href="homework.ptx"/>  
+  <xi:include href="scoring.ptx"/>
+  <xi:include href="grading_scale.ptx"/>
+</section>

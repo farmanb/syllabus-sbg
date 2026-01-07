@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="assessments">
+  <title>Assessments</title>
+  <p>
+    This course will have in-class, written assessments.
+    You may not use the text, your notes, or any devices.
+  </p>
+  <p>
+    Each assessment will contain problems corresponding to one or more standards.
+    The standards are scored <em>independently</em> using the scale in the <xref ref="scoring" text="title"/> section.
+    To master a standard, you must earn a score of <alert>M</alert> on <alert>all</alert> of the problems that go with the standard.
+  </p>
+
+  <assemblage>
+    <title>Reassessment</title>
+    <p>
+      There are scheduled Reassessment days for this course (see the <xref ref="schedule" text="title"/>) where you will be given problems for <em>every</em> standard that you have <em>not yet mastered</em>.
+      You may attempt as many standards as time allows.
+    </p>
+  </assemblage>
+</subsection>

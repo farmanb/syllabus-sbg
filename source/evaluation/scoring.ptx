@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="scoring">
+  <title>Scoring</title>
+  <p>
+    All written work in this course will be scored on the following scale.
+  </p>
+  <assemblage>
+    <title>Scale</title>
+    <p>
+      <dl>
+	<li>
+	  <title>Mastery (M)</title>
+	  <p>
+	    The given solution is correct with no content related errors.
+	    Appropriate justification is provided in a clear, easy to follow manner.
+	  </p>
+	</li>
+	<li>
+	  <title>Progressing (P)</title>
+	  <p>
+	    The given solution demonstrates an understanding of the material, but contains content related errors or lacks justification.
+	  </p>
+	</li>
+	<li>
+	  <title>Needs Improvement (N)</title>
+	  <p>
+	    The given solution was blank, illegible, or used inappropriate techniques.
+	  </p>
+	</li>
+      </dl>
+    </p>
+  </assemblage>
+</subsection>

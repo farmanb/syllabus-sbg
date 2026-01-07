@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="standards" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Standards</title>
+  <introduction>
+    <p>
+      The standards below represent the content that you are expected to master by the end of the course.
+    </p>
+  </introduction>
+  <xi:include href="01.ptx" />
+  <xi:include href="02.ptx" />
+  <xi:include href="03.ptx" />
+  <xi:include href="04.ptx" />
+  <xi:include href="05.ptx" />
+</section>

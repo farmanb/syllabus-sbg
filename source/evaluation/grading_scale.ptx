@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="grading_scale">
+  <title>Grading Scale</title>
+
+  <p>
+    Letter grades will be assigned based on the number of standards mastered in the course, as specified in the table below.
+  </p>
+
+  <table>
+    <title>Grading Scale</title>
+    <tabular halign="center">
+      <row header="yes" bottom="major">
+	<cell>Letter Grade</cell>
+	<cell>Number of Standards Mastered</cell>
+      </row>
+      <row>
+	<cell right="minor">A</cell>
+	<cell>17<ndash/>18</cell>
+      </row>
+      <row>
+	<cell right="minor">B</cell>
+	<cell>15<ndash/>16</cell>
+      </row>
+      <row>
+	<cell right="minor">C</cell>
+	<cell>13<ndash/>14</cell>
+      </row>
+      <row>
+	<cell right="minor">D</cell>
+	<cell>11<ndash/>12</cell>
+      </row>
+      <row>
+	<cell right="minor">F</cell>
+	<cell>0-10</cell>
+      </row>
+    </tabular>
+  </table>
+</subsection>

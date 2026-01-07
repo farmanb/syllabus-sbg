@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="standard_group_2">
+  <title>Standard Group 2</title>
+  <introduction>
+    <p>
+      Brief synopsis of standard group 2.
+    </p>
+  </introduction>
+  
+  <subsubsection xml:id="standard_group_2-1">
+    <title>Standard Group 2 - Standard 1</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>perform a task/make use of a concept/<etc/></p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert>
+      </p>
+    </assemblage>
+  </subsubsection>
+
+  <subsubsection xml:id="standard_group_2-2">
+    <title>Standard Group 2 - Standard 2</title>
+    <assemblage>
+      <title>I can..</title>
+      <p>
+	<ul>
+	  <li>
+	    <p>perform a task/make use of a concept/<etc/></p>
+	  </li>
+	</ul>
+      </p>
+      <p>
+	<alert>Homework:</alert>
+      </p>
+    </assemblage>
+  </subsubsection>
+</subsection>
