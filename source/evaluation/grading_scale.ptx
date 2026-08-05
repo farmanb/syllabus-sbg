@@ -6,33 +6,33 @@
     Letter grades will be assigned based on the number of standards mastered in the course, as specified in the table below.
   </p>
 
-  <table>
+  <assemblage>
     <title>Grading Scale</title>
     <tabular halign="center">
-      <row header="yes" bottom="major">
-	<cell>Letter Grade</cell>
+      <row header="yes" bottom="minor">
 	<cell>Number of Standards Mastered</cell>
+	<cell>Letter Grade</cell>
       </row>
       <row>
-	<cell right="minor">A</cell>
 	<cell>17<ndash/>18</cell>
+	<cell>A</cell>
       </row>
       <row>
-	<cell right="minor">B</cell>
 	<cell>15<ndash/>16</cell>
+	<cell>B</cell>
       </row>
       <row>
-	<cell right="minor">C</cell>
 	<cell>13<ndash/>14</cell>
+	<cell>C</cell>
       </row>
       <row>
-	<cell right="minor">D</cell>
 	<cell>11<ndash/>12</cell>
+	<cell>D</cell>
       </row>
       <row>
-	<cell right="minor">F</cell>
-	<cell>0-10</cell>
+	<cell>0<ndash/>10</cell>
+	<cell>F</cell>
       </row>
     </tabular>
-  </table>
+  </assemblage>
 </subsection>

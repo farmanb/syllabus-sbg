@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection xml:id="homework">
+<subsection xml:id="homework" component="homework">
   <title>Homework</title>
   <p>
     Homework will be assigned regularly.
     The problems are chosen to highlight the core concepts from the standards.
     Mastery of these homework sets serves as a good indicator for performance on assessments.
-    As such, you should enure that you fully understand the material on these homework sets; that is, upon completion of the homework set, you should be capable of completing similar problems without the aid of the text, a computer, or any other tools not available during an exam.
+    As such, you should ensure that you fully understand the material on these homework sets; that is, upon completion of the homework set, you should be capable of completing similar problems without the aid of the text, a computer, or any other tools not available during an exam.
   </p>
 
-  <assemblage component="homework">
+  <assemblage>
     <title>Reassessment</title>
     <p>
       You may resubmit <alert>one</alert> homework set that you have not mastered each week.

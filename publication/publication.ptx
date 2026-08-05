@@ -9,12 +9,13 @@
 
   <!-- directories are relative to the main source PreTeXt file -->
   <source>
-    <directories external="../assets" generated="../generated-assets"/>
+    <!-- The external directory is declared in source/docinfo.ptx -->
+    <directories generated="../generated-assets"/>
     <!-- Version flags -->
     <!-- homework: Course has SBG homework -->
     <!-- BARC: Course has university tutoring resources -->
     <!-- mathclub: Course has club tutoring resources -->
-    <version include="BARC mathclub"/>
+    <version include="homework BARC mathclub"/>
   </source>
   
   <latex print="no" sides="one" font-size="10" draft="no">
@@ -24,6 +25,10 @@
   </latex>
 
   <html favicon="simple">
-    <css theme="denver" color-main="#003087"/> <!-- Tech blue main color -->
+    <brandlogo url="https://latech.edu" source="images/logo.png"/>
+    <!-- Vintage Tech blue main color; a lightened Vintage Tech red (#B73E26) for
+	 the dark theme, tinted to clear the 4.5:1 contrast ratio against the
+	 theme's dark background. -->
+    <css theme="boulder" primary-color="#0A3254" primary-color-dark="#D9705A"/>
   </html>
 </publication>
