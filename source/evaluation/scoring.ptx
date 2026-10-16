@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection xml:id="scoring">
+<subsection xml:id="scoring" label="scoring">
   <title>Scoring</title>
   <p>
     All written work in this course will be scored on the following scale.
   </p>
-  <assemblage>
+  <assemblage xml:id="scoring_scale">
     <title>Scale</title>
     <p>
       <dl>

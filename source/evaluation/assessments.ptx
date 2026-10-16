@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection xml:id="assessments">
+<subsection xml:id="assessments" label="assessments">
   <title>Assessments</title>
   <p>
     This course will have in-class, written assessments.
@@ -11,7 +11,7 @@
     To master a standard, you must earn a score of <alert>M</alert> on <alert>all</alert> of the problems that go with the standard.
   </p>
 
-  <assemblage>
+  <assemblage xml:id="assessment_reassessment">
     <title>Reassessment</title>
     <p>
       There are scheduled Reassessment days for this course (see the <xref ref="schedule" text="title"/>) where you will be given problems for <em>every</em> standard that you have <em>not yet mastered</em>.

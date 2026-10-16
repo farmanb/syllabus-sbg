@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="evaluation" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="evaluation" label="evaluation" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Evaluation</title>
 
   <introduction xml:id="evaluation_introduction">

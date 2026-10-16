@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<subsection xml:id="standard_group_3">
+<subsection xml:id="standard_group_3" label="standard_group_3">
   <title>Standard Group 3</title>
   <introduction>
     <p>
@@ -7,9 +7,9 @@
     </p>
   </introduction>
   
-  <subsubsection xml:id="standard_group_3-1">
+  <subsubsection xml:id="standard_group_3-1" label="standard_group_3-1">
     <title>Standard Group 3 - Standard 1</title>
-    <assemblage>
+    <assemblage xml:id="standard_group_3-1_can">
       <title>I can..</title>
       <p>
 	<ul>
@@ -24,9 +24,9 @@
     </assemblage>
   </subsubsection>
 
-  <subsubsection xml:id="standard_group_3-2">
+  <subsubsection xml:id="standard_group_3-2" label="standard_group_3-2">
     <title>Standard Group 3 - Standard 2</title>
-    <assemblage>
+    <assemblage xml:id="standard_group_3-2_can">
       <title>I can..</title>
       <p>
 	<ul>
